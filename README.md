@@ -41,7 +41,7 @@
 
 
 ## NVIida
-
+[NAUTOMOTIVE ROADMAP](https://www.gputechconf.co.kr/assets/files/presentations/5-1330-1400_NVIDIA_Jeonghun_Cha.pdf)
 
 ## Mobileye
 
