@@ -1,5 +1,9 @@
 
 
+## Daimler AG
+
+- [Depth][[Vidoe](http://lmb.informatik.uni-freiburg.de/people/ummenhof/depthmotionnet/)][DeMoN: Depth and Motion Network for Learning Monocular Stereo](https://arxiv.org/pdf/1612.02401.pdf) 16.12.08
+
 
 ## Baidu 
 
