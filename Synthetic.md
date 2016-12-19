@@ -1,0 +1,1 @@
+- [Visual Compiler:Synthesizing a Scene-Specific Pedestrian Detector and Pose Estimator](https://arxiv.org/pdf/1612.05234.pdf)
