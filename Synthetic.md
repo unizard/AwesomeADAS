@@ -1,1 +1,1 @@
-- [Visual Compiler:Synthesizing a Scene-Specific Pedestrian Detector and Pose Estimator](https://arxiv.org/pdf/1612.05234.pdf)
+- [Visual Compiler:Synthesizing a Scene-Specific Pedestrian Detector and Pose Estimator](https://arxiv.org/pdf/1612.05234.pdf) 2016.12 oxford, CMU, Volvo
