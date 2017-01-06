@@ -1,2 +1,2 @@
 - [Visual Compiler:Synthesizing a Scene-Specific Pedestrian Detector and Pose Estimator](https://arxiv.org/pdf/1612.05234.pdf) 2016.12 oxford, CMU, Volvo
-- [Learning from Synthetic Humans](https://arxiv.org/pdf/1701.01370), TUM, 2016.01 Mocap but novel dataset, (ppt)[https://docs.google.com/presentation/d/1FUgJGiM94JUwosnXk6FgMLBJASbKJ-nhtHvtaOqaJl4/edit?usp=sharing]
+- [Learning from Synthetic Humans](https://arxiv.org/pdf/1701.01370), TUM, 2016.01 Mocap but novel dataset, [ppt](https://docs.google.com/presentation/d/1FUgJGiM94JUwosnXk6FgMLBJASbKJ-nhtHvtaOqaJl4/edit?usp=sharing)
