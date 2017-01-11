@@ -11,3 +11,8 @@
 ## Feature learing
  - [Why Does Unsupervised Pre-training Help Deep Learning?](http://jmlr.org/papers/volume11/erhan10a/erhan10a.pdf) citation 785
  - [Representation Learning: A Review and New Perspectives](http://ieeexplore.ieee.org/document/6472238/?arnumber=6472238&tag=1) citation 555
+
+
+## Blog about ADAS
+ - [Min Sun](http://aliensunmin.github.io/publications.html)
+   - [[web](http://aliensunmin.github.io/project/dashcam/)][Anticipating Accidents in Dashcam Videos](http://aliensunmin.github.io/publications.html)
