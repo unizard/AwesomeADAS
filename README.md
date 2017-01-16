@@ -1,6 +1,7 @@
 
 
-
+## Class
+- [MIT Class](http://selfdrivingcars.mit.edu/?utm_content=buffer01643&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) DL for Self-driving car
 
 ##  Driving
 - [End-to-end Learning of Driving Models from Large-scale Video Datasets](https://arxiv.org/pdf/1612.01079v1.pdf),
